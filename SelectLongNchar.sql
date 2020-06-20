@@ -1,8 +1,3 @@
-select	right(html,len(html))	from
-configuration.DocumentTemplateConfiguration
-where id = 5
-
-
 -- This script is for getting all of a field's text
 -- suitable for reading html
 
